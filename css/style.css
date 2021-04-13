@@ -84,3 +84,8 @@ footer{
 .border{
     border: #24252A;
 }
+.poznamka {
+    background-color: rgba(0,0,0,0.5);
+    font-size: 0.9em;
+    padding: 0.5em;
+}
