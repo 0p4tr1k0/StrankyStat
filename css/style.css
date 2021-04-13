@@ -1,6 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 
+body {
+    background-image: url('https://www.livingstone.cz/upload/responsive/kraken/info-o-zemich/asie/Oman-hlavicka-01.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+  }
 * {
     box-sizing: border-box;
     margin: 0;
@@ -22,6 +30,7 @@ header{
     align-items: center;
     padding: 30px 10%;
 }
+
 
 .logo{
     cursor: pointer;
@@ -56,4 +65,22 @@ button{
 .navigation{
     display: flex;
     justify-content: space-between;
+}
+.podtitulek{
+    text-align: center;
+}
+.statistika{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: #24252A;
+    text-decoration: none;
+}
+.futr{
+    text-align: center;
+}
+footer{
+    padding: 30px 10%;
+}
+.border{
+    border: #24252A;
 }
