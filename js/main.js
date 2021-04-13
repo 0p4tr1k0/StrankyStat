@@ -1,5 +1,5 @@
 $(document).ready(function(){
     $("button").click(function(){
-      $("p").hide();
+      $("p").toggle(6000);
     });
   });
