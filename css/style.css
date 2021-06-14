@@ -112,3 +112,12 @@ background-color:#0688fa;
 position:relative;
 top:1px;
 }
+.card-header{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: #edf0f1;
+    background-color: #24252A;
+}
+.card-footer{
+    background-color: #24252A;
+}
