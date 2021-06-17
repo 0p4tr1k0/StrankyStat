@@ -1,0 +1,27 @@
+{
+  "name": "zeme",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000S\u0000t\u0000r\u0000a\u0000n\u0000k\u0000y\u0000S\u0000t\u0000a\u0000t\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0p4tr1k0/StrankyStat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0p4tr1k0/StrankyStat/issues"
+  },
+  "homepage": "https://github.com/0p4tr1k0/StrankyStat#readme",
+  "keywords": []
+}

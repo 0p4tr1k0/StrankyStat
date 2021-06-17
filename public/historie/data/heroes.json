@@ -1,0 +1,42 @@
+[
+    {
+        "name": "John Fearn",
+        "birth": "24.8.1768",
+        "death": "xxx",
+        "biography": "John Fearn (1768–1837) byl důstojník britského královského námořnictva, námořní kapitán a objevitel. Je známý jako první Evropan, který vstoupil na půdu pacifického ostrova Nauru, který je nyní nezávislou republikou.",
+        "portraits": [
+            
+        ],
+        "online": "https://en.wikipedia.org/wiki/John_Fearn_(whaler)"
+    },
+    {
+        "name": "Král Aweida",
+        "birth": "7.3.1850",
+        "death": "14.9.1937",
+        "biography": "Před tím, než se Nauru dostalo pod evropskou vládu, vládl nad ním král, který vytvářel zákony, které prosazovaly místní náčelníci. Když Německo připojilo Nauru k německé Nové Guineji, Aweida si zachoval svou suverenitu jako král a zůstal náčelníkem nauruanského lidu, i když se o něm ví jen velmi málo. Aweijeda se narodil náčelníkovi Jimovi a jeho manželce Eidingab z kmene Emea. Jeho první manželství bylo s dcerou náčelníka Eibinua z kmene Eamwitů z vesnice Bush. Měli několik dětí. Poté, co Eibinua zemřela, se Aweijeda znovu oženil, tentokrát s Eidukiri, také z kmene Eamwit, ale neměli žádné děti.",
+        "portraits": [
+            "Aweida.jpg"
+        ],
+        "online": "https://en.wikipedia.org/wiki/Aweida"
+    },
+    {
+        "name": "Sir Albert Ellis",
+        "birth": "28.8.1869",
+        "death": "11.7.1951",
+        "biography": "Sir Albert Fuller Ellis CMG (28. srpna 1869 - 11. července 1951) byl prospektor v Pacifiku. V roce 1900 objevil ložiska fosfátů na tichomořských ostrovech Nauru a Banaba (oceánský ostrov). V letech 1921 až 1951 byl britským komisařem pro fosfáty na Novém Zélandu.",
+        "portraits": [
+            "Albert.jpg"
+        ],
+        "online": "https://en.wikipedia.org/wiki/Albert_Ellis_(prospector)"
+    }, 
+    {
+        "name": "Hammer DeRoburt",
+        "birth": "25.10.1922",
+        "death": "15.7.1992",
+        "biography": "Sir Hammer DeRoburt OBE GCMG (25. září 1922 - 15. července 1992) byl zakládajícím prezidentem republiky Nauru a vládl zemi po většinu prvních dvaceti let nezávislosti.",
+        "portraits": [
+            "Hammer.jpg"
+        ],
+        "online": "https://en.wikipedia.org/wiki/Hammer_DeRoburt"
+    }
+]
