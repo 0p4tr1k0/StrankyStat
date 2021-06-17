@@ -1,42 +1,32 @@
 [
     {
-        "name": "John Fearn",
-        "birth": "24.8.1768",
-        "death": "xxx",
-        "biography": "John Fearn (1768–1837) byl důstojník britského královského námořnictva, námořní kapitán a objevitel. Je známý jako první Evropan, který vstoupil na půdu pacifického ostrova Nauru, který je nyní nezávislou republikou.",
+        "name": "Kábús bin Saíd",
+        "birth": "23.7.1970",
+        "death": "10.1.2020",
+        "biography": "Kábús bin Saíd bin Tajmúr Ál Saíd byl od roku 1970 až do své smrti sultánem a zároveň předsedou vlády Ománu. Narodil se jako jediný syn sultána Saída bin Tajmúra. Nástupcem se stal 11. ledna jeho bratranec, dosavadní ministr kultury Hajtham bin Tárik. Před svou smrtí v lednu 2020 byl sultán Kábús nejdéle sloužící hlavou státu na Blízkém východě.",
         "portraits": [
-            
+            "kakabus.jpg"
         ],
-        "online": "https://en.wikipedia.org/wiki/John_Fearn_(whaler)"
+        "online": "https://cs.wikipedia.org/wiki/Kábús_bin_Saíd"
     },
     {
-        "name": "Král Aweida",
-        "birth": "7.3.1850",
-        "death": "14.9.1937",
-        "biography": "Před tím, než se Nauru dostalo pod evropskou vládu, vládl nad ním král, který vytvářel zákony, které prosazovaly místní náčelníci. Když Německo připojilo Nauru k německé Nové Guineji, Aweida si zachoval svou suverenitu jako král a zůstal náčelníkem nauruanského lidu, i když se o něm ví jen velmi málo. Aweijeda se narodil náčelníkovi Jimovi a jeho manželce Eidingab z kmene Emea. Jeho první manželství bylo s dcerou náčelníka Eibinua z kmene Eamwitů z vesnice Bush. Měli několik dětí. Poté, co Eibinua zemřela, se Aweijeda znovu oženil, tentokrát s Eidukiri, také z kmene Eamwit, ale neměli žádné děti.",
+        "name": "Hajtham bin Tárik",
+        "birth": "11.10.1955",
+        "death": "?",
+        "biography": "Hajtham bin Tárik Ál Saíd ",
         "portraits": [
-            "Aweida.jpg"
+            "taric.jpg"
         ],
-        "online": "https://en.wikipedia.org/wiki/Aweida"
+        "online": "https://cs.wikipedia.org/wiki/Hajtham_bin_Tárik v českých zdrojích uváděný též jako Hajsám bin Tárik Saíd nebo Haitham bin Tariq Al-Said  je sultán a zároveň předseda vlády Ománu. Na trůn nastoupil 11. ledna 2020 po smrti předchozího sultána Kábúse bin Saída, svého bratrance, jenž zemi vládl bezmála 50 let."
     },
     {
-        "name": "Sir Albert Ellis",
-        "birth": "28.8.1869",
-        "death": "11.7.1951",
-        "biography": "Sir Albert Fuller Ellis CMG (28. srpna 1869 - 11. července 1951) byl prospektor v Pacifiku. V roce 1900 objevil ložiska fosfátů na tichomořských ostrovech Nauru a Banaba (oceánský ostrov). V letech 1921 až 1951 byl britským komisařem pro fosfáty na Novém Zélandu.",
+        "name": "Saíd bin Tajmúr",
+        "birth": "13.8.1910",
+        "death": "19.10.1972",
+        "biography": "Saíd bin Tajmúr celým jménem Saíd bin Tajmúr bin Fajsal, byl sultán Maskatu a Ománu (dnešní Omán). Vládl od 10. února 1932 do 23. července 1970. V roce 1951 dovedl zemi k nezávislosti. Spolu se svou druhou ženou Mazún al-Mašání měli syna Kábúse, jenž vystřídal svého otce ve funkci sultána, ve které působil až do své smrti v roce 2020.",
         "portraits": [
-            "Albert.jpg"
+            "tajmur.jpg"
         ],
-        "online": "https://en.wikipedia.org/wiki/Albert_Ellis_(prospector)"
-    }, 
-    {
-        "name": "Hammer DeRoburt",
-        "birth": "25.10.1922",
-        "death": "15.7.1992",
-        "biography": "Sir Hammer DeRoburt OBE GCMG (25. září 1922 - 15. července 1992) byl zakládajícím prezidentem republiky Nauru a vládl zemi po většinu prvních dvaceti let nezávislosti.",
-        "portraits": [
-            "Hammer.jpg"
-        ],
-        "online": "https://en.wikipedia.org/wiki/Hammer_DeRoburt"
+        "online": "https://cs.wikipedia.org/wiki/Saíd_bin_Tajmúr"
     }
 ]
