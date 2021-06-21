@@ -1,0 +1,79 @@
+[
+    {
+        "id":"Salalah",
+        "name":"Salalah",
+        "population":197196,
+        "znak":"../../img/salalah.jpg",
+        "popis":"Salalah je významný přístav a druhé nejvýznamnější město Ománu. Zároveň je hlavním městem governorátu Dafár, který se nachází na jihu země na pobřeží Arabského moře. V roce 2009 zde žilo asi 197 tisíc obyvatel. Poblíž města se nachází stejnojmenné letiště. Salála je důležitý uzel námořní dopravy, mezi přístavy kontejnerové dopravy jí patří 46. místo na světě."
+    },
+    {
+        "id":"Haima",
+        "name":"Haima",
+        "population":3189,
+        "znak":"../../img/haima.jpg",
+        "popis":"Haima je ománské město v regionu al-Wusta. Haima označuje rovněž vilájet, administrativní jednotku, jejíž správním centrem je právě město Hajma. Hajma se nachází téměř uprostřed cesty mezi dvěma největšími městy země – Salálou a Maskatem. Oblast pokrývá poušť."
+    },
+    {
+        "id":"Sur",
+        "name":"Sur",
+        "population":120000,
+        "znak":"../../img/sur.jpg",
+        "popis":"Sur je město v severovýchodním Ománu a správní středisko guvernorátu Jižní aš-Šarkíja, ležící na pobřeží u Ománského zálivu, potažmo Indického oceánu. Nachází se 150 km jihovýchodně od hlavního města Maskat."
+    },
+    {
+        "id":"Ibra",
+        "name":"Ibra",
+        "population":35000,
+        "znak":"../../img/ibra.jpg",
+        "popis":"Ibra je město v Ománu, správní středisko guvernorátu Severní aš-Šarkíja. Od hlavního města, Maskatu, je vzdálen 140 km. Počet obyvatel byl při sčítání lidu v roce 2003 24 619 lidí [1] , v současnosti je odhadován na 35 000. Ibra je jedním z nejstarších ománských měst, v jisté době dokonce byla centrem obchodu, náboženství, vzdělání a umění. Město nabylo na významu díky své poloze."
+    },
+    {
+        "id":"Sohar",
+        "name":"Sohar",
+        "population":221605,
+        "znak":"../../img/sohar.jpg",
+        "popis":"Sohar  je kromě hlavního města Maskat nejrozvinutějším městem v Ománu. Leží asi 200 km severně od Maskatu a zhruba 200 km jižně od Dubaje. V dřívějších dobách byl Suhár hlavním městem a mnoho lidí věří, že je místem narození námořníka Sinbáda. Ve městě stojí Suhárská univerzita. Město je situováno na pobřeží Ománského zálivu a je správním střediskem guvernorátu Severní al-Batína. Poblíž města se nachází stejnojmenná pevnost."
+    },
+    {
+        "id":"Rustaq",
+        "name":"Rustaq",
+        "population":120000,
+        "znak":"../../img/rustaq.jpg",
+        "popis":"Rustaq je ománské město a také vilájet (územní správní celek) v guvernorátu Jižní al-Batína. Počet obyvatel vilájetu dosáhnul v roce 2003 čísla 74 124. Nachází se v západní části pohoří al-Hadžar a leží 150 kilometrů od guvernorátu Maskat. K významným památkám se řadí pevnosti Rustak a al-Hazm. Tradičními produkty jsou zlatá a stříbrná bižuterie, potraviny, kožené výrobky a výrobky z proutí z palmových listů."
+    },
+    {
+        "id":"Nizwa",
+        "name":"Nizwa",
+        "population":120000,
+        "znak":"../../img/nizwa.jpg",
+        "popis":"Nizwa je město v Ománu, v provincii ad-Dáchílija. Leží v ománském vnitrozemí, přibližně 140 km. od hlavního města Maskatu. Má přibližně 70 tis. obyvatel. Jde o jedno z nejstarších měst v Ománu. Nachází se zde stejnojmenná pevnost."
+    },
+    {
+        "id":"AlBuraimi",
+        "name":"Al-Buraimi",
+        "population":63627,
+        "znak":"../../img/alburajmi.jpg",
+        "popis":"Al-Buraimi je město a vilájet ležící v severozápadním cípu Ománu. Jedná se o správní centrum stejnojmenného guvernorátu, které je vzdáleno 375 kilometry od hlavního města Maskat. Přilehlé vesnice jsou zavlažované 49 systémy (faladž). Velká část plochy vilájetu je utvářena písečnou pouští."
+    },
+    {
+        "id":"Ibri",
+        "name":"Ibri",
+        "population":160000,
+        "znak":"../../img/ibri.jpg",
+        "popis":"Ibri  je město v Ománu, v regionu ad-Zahíra, který se rozkládá na severovýchodě země. V okolí Ibrí se nachází významné archeologické památky, které jsou obklopené pevnostmi, věžemi a dalšími stavbami z minulosti. Rovněž se zde nachází pozůstatky města Bat, které jsou v pořadí druhou památkou Ománu, zařazenou na seznam světového dědictví UNESCO. Jako první byla zařazena pevnost Bahla, situovaná v sousedním regionu ad-Dáchílija."
+    },
+    {
+        "id":"Muscat",
+        "name":"Muscat",
+        "population":1288330,
+        "znak":"../../img/muscat.jpg",
+        "popis":"Muscat je hlavní město Sultanátu Omán a zároveň největší město v zemi. Také je správním městem Maskatského guvernorátu. Počet obyvatel metropolitní oblasti Maskat byl v květnu 2015 zhruba 1,29 milionu lidí. Metropolitní oblast se rozkládá na ploše o přibližně 3 500 km² (podle dřívějších údajů 1 500 km²) a zahrnuje šest vilájetů (administrativní jednotky)."
+    },
+    {
+        "id":"Khasab",
+        "name":"Khasab",
+        "population":17730,
+        "znak":"../../img/khasab.jpg",
+        "popis":"Khasab je město v ománské exklávě Musandam. Je správním střediskem Musandamského guvernorátu. Od hlavního města Maskatu jej dělí 500 km, kvůli své poloze a vzdálenosti od zbytku Ománu je přezdíván Arabské Norsko. Chasab byl vystavěn Portugalci na počátku 17. století, tedy v době vrcholu portugalské moci v této oblasti. Chasab je před povodněmi chráněn třemi velkými přehradami."
+    }
+]

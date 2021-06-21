@@ -22,5 +22,11 @@ const server = http.createServer(app);
 // Set static folder
 app.use(express.static(path.join(__dirname, 'public')));
 
+app.get('/api/town', (req, res) => {
+    readJSON('public/geografie/js/towns.json')
+    .then(data => res.send(data))
+    .catch(err => res.send('Chyba lávky', err));
+});
+
 const PORT = process.env.PORT || 8080;
 server.listen(PORT, () => console.log(`Server running on port ${PORT}`));

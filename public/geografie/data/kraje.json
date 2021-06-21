@@ -1,0 +1,79 @@
+[
+    {
+       "id":"AdDakhiliyah",
+       "region":"Ad-Dakhiliyah",
+       "population":490900,
+       "sign":"AdDakhiliyah.jpg",
+       "text":"Ad-Dakhiliyah je vnitrozemní guvernorát Sultanátu Omán. Správním centrem oblasti je město Nazvá. Rozkládá se na oblasti 31 900 km². Na severu sousedí s guvernoráty Maskat a Jižní al-Batína, na východě se Severní aš-Šarkíjou, na jihu s al-Wusta a na západě s guvernoráty ad-Zahíra al-Burajmi. Vzhledem ke své poloze spojuje Maskat s ostatními oblastmi. Guvernorát Ad-Dáchílija se dělí na 8 vilájetů. Jsou jimi Adam, al-Hamra, Bahla, Bidbid, Izki, Maná, Nazvá a Samájl."
+    },
+    {
+       "id":"AdDhahirah",
+       "region":"Ad-Dhahirah",
+       "population":204250,
+       "sign":"AdDhahirah.jpg",
+       "text":"Ad-Dhahirah je jedním z jedenácti guvernorátů Sultanátu Omán. Sousedí se Saúdskou Arábií (na západě) a Spojenými arabskými emiráty (na severozápadě), dále pak s guvernoráty al-Wusta (na jihu), ad-Dáchílija (na východě), jižní al-Batína a severní al-Batína (na severovýchodě) a al-Burajmi (na severu), který byl vytvořen z části ad-Zahírského guvernorátu. Správním centrem je město Ibrí. Region se dělí do tří vilájetů, jimiž jsou Ibrí, Jankul a Zank. Území regionu je částečně pokryto polopouští, na západě regionu leží poušť Rub al-Chálí. Na jihu se tyčí pohoří al-Hadžar a na východě hory al-Kur. Kvůli své poloze je ad-Zahíra pojítkem Ománu se zbytkem Arabského poloostrova. V minulosti tudy cestovaly obchodní karavany a staraly se o prosperitu celé oblasti. Nachází se zde spousta historických památek, především však pevnosti a opevnění, z nichž nejznámější jsou al-Salajf, Ajn al-Hadíth a Ajn al-Džaná."
+    },
+    {
+       "id":"AlBatinahNorth",
+       "region":"Al-Batinah North",
+       "population":655873,
+       "sign":"AlBatinahNorth.jpg",
+       "text":"Al-Batinah North  je ománský guvernorát nacházející se na severu země. Společně s guvernorátem Jižní al-Batína vznikl v roce 2011 rozdělením regionu al-Batína. Sousedí s guvernoráty Ad-Zahíra, Jižní al-Batína a Al-Burajmi. Sestává z šesti provincií (vilájetů): Liva, Suhár, Saham, Šinas, as-Suvajk a al-Chabúra."
+    },
+    {
+       "id":"AlBatinahSouth",
+       "region":"Al-Batinah South",
+       "population":360521,
+       "sign":"AlBatinahSouth.jpg",
+       "text":"Al-Batinah South je ománský guvernorát nacházející se na severu země. Společně s guvernorátem Severní al-Batína vznikl v roce 2011 rozdělením regionu al-Batína. Sousedí s guvernoráty Ad-Zahíra, Jižní al-Batína, Ad-Dáchílija a Maskat. Sestává z šesti provincií (vilájetů): al-Avabí, al-Musáná, an-Nachal, Barka, Rustak a Vádí al-Mávil."
+    },
+    {
+       "id":"AlBuraymi",
+       "region":"Al-Buraymi",
+       "population":99836,
+       "sign":"AlBuraymi.jpg",
+       "text":"Al-Buraymi je ománský guvernorát situovaný na severozápadě země. Na východě hraničí s guvernorátem Severní al-Batína, na jihu s ad-Zahíra a na západě a severu se Spojenými arabskými emiráty. Správním městem je al-Burajmi. Guvernorát se dále dělí na tři vilájety, jimiž jsou al-Burajmi, Mahzá a al-Sinajna, který byl vytvořen ze dvou předchozích. Guvernorát al-Burajmi z částí regionu ad-Zahíra."
+    },
+    {
+       "id":"AlWusta",
+       "region":"Al-Wusta",
+       "population":40936,
+       "sign":"AlWusta.jpg",
+       "text":"Al-Wusta je guvernorát v Ománu. Hlavním městem je Hajma. Region na severu sousedí s regiony ad-Zahíra, ad-Dáchílija, severní aš-Šarkíja a jižní aš-Šarkíja, na západě se Saúdskou Arábií a na jihozápadě s guvernorátem Dafár. Skládá se ze čtyř vilájetů, jimiž jsou al-Džazúr, Dakm, Hajma a Mahút."
+    },
+    {
+      "id":"AshSharqiyahNorth",
+      "region":"Ash-Sharqiyah North",
+      "population":242131,
+      "sign":"AshSharqiyahNorth.jpg",
+      "text":"Ash-Sharqiyah North je ománský guvernorát nacházející se na východě země. Společně s guvernorátem Jižní aš-Šarkíja vznikl v roce 2011 rozdělením regionu aš-Šarkíja. Sousedí s guvernoráty Maskat, Jižní aš-Šarkíja, Ad-Dáchílija a Al-Wusta. Sestává z šesti provincií (vilájetů): al-Kabíl, Bidíja, Dema Vá Thajen, Ibra, Muzajbi, Vádí Baní Chálid."
+   },
+   {
+      "id":"AshSharqiyahSouth",
+      "region":"Ash-Sharqiyah South",
+      "population":267322,
+      "sign":"AshSharqiyahSouth.jpg",
+      "text":"Ash-Sharqiyah South je ománský guvernorát nacházející se na východě země. Společně s guvernorátem Severní aš-Šarkíja vznikl v roce 2011 rozdělením regionu aš-Šarkíja. Sousedí s guvernoráty Maskat, Severní aš-Šarkíja a Al-Wusta. Sestává z pěti provincií (vilájetů): al-Kamíl val-Vafí, Džalan Baní Bú Ali, Džalan Baní Bú Hasan, Masíra, Súr."
+   },
+   {
+      "id":"Dhofar",
+      "region":"Dhofar",
+      "population":1215960,
+      "sign":"Dhofar.jpg",
+      "text":"Dhofar je jedním z jedenácti guvernorátů Sultanátu Omán, umístěný v jeho jižní části. Správním střediskem je město Salála. Na severu a severozápadě sousedí Dafár se Saúdskou Arábií, na východě s ománským regionem al-Wusta, na západě s Jemenem a na jihu hraničí s Arabským mořem, potažmo Indickým oceánem. Guvernorát se rozkládá na ploše 99 300 km²."
+   },
+   {
+      "id":"Muscat",
+      "region":"Muscat",
+      "population":632073,
+      "sign":"Muscat.jpg",
+      "text":"Muscat je jedním z guvernorátů Sultanátu Omán. Nachází se v Ománském zálivu, v jižní části pobřeží Al Batína, ohraničen pohořím al-Hadžar z jedné, a zmíněným zálivem ze strany druhé. Guvernorát Maskat je nejlidnatějším regionem Ománu. Zdejší průměrná hustota zalidnění několikanásobně přesahuje průměrnou hustotu zalidnění v celé zemi. Guvernorát se dělí na šest vilájetů: al-Síb, al-Amerat, Bowšar, Maskat, Matra a Kurijat. Maskat je hlavní město a zároveň centrum státu. Jedná se o staré město, které hrálo důležitou úlohu jakožto obchodní stanice již od dob raného islámu. Rovněž je jedním z nejvýznamnějších obchodních center, kvůli své mimořádně strategické poloze. Stojí zde proslulé pevnosti al-Džalali a al-Mirani."
+   },
+   {
+      "id":"Musandam",
+      "region":"Musandam",
+      "population":28378,
+      "sign":"Musandam.jpg",
+      "text":"Poloostrov Musandam vybíhá do Hormuzského průlivu, úzce vstupuje do Perského zálivu, z Arabského poloostrova. Musandam je exklávou Ománu, oddělený od zbytku země Spojenými arabskými emiráty. Jeho umístění dává Ománu částečnou kontrolu, společně s Íránem, nad strategickou úžinou. V severní části Musandamu, kolem osady Kumzar, je běžnou řečí kumzarština, jež náleží do skupiny jihozápadních íránských jazyků a je větví perštiny. Rozloha Musandamu dosahuje 1 800 km² a počet obyvatel 28 727 lidí. Spojení se zbytkem Ománu je tradičním problémem oblasti, ale od srpna 2008 se situaci značně zlepšila zahájením světově nejrychlejší osobní trajektové dopravy mezi Musandamem a Maskatem."
+   }
+]
